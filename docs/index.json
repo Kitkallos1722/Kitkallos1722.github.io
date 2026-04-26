@@ -4,14 +4,22 @@
       {
         "id": "P2249",
         "title": "P2249",
-        "excerpt": "算法",
+        "excerpt": "二分",
         "file": "docs/algorithm/P2249.md"
       },
       {
         "id": "P1102",
         "title": "P1102",
-        "excerpt": "算法",
+        "excerpt": "二分",
         "file": "docs/algorithm/P1102.md"
+      }
+    ],
+    "排序":[
+      {
+        "id": "P1271",
+        "title": "P1271",
+        "excerpt": "排序",
+        "file": "docs/algorithm/P1271.md"
       }
     ]
   
