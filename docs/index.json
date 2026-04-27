@@ -35,6 +35,14 @@
         "excerpt": "搜索",
         "file": "docs/algorithm/P1443.md"
       }
+    ],
+    "递推与递归":[
+      {
+        "id": "P1255",
+        "title": "P1255",
+        "excerpt": "递推与递归",
+        "file": "docs/algorithm/P1255.md"
+      }
     ]
   
   }
