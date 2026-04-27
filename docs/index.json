@@ -21,6 +21,14 @@
         "excerpt": "排序",
         "file": "docs/algorithm/P1271.md"
       }
+    ],
+    "搜索":[
+      {
+        "id": "P1219",
+        "title": "P1219",
+        "excerpt": "搜索",
+        "file": "docs/algorithm/P1219.md"
+      }
     ]
   
   }
