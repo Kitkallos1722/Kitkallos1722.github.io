@@ -51,6 +51,28 @@
         "excerpt": "前缀和、差分与离散化",
         "file": "docs/algorithm/P8218.md"
       }
+    ],
+    "贪心":[
+      {
+        "id": "P1249",
+        "title": "P1249",
+        "excerpt": "贪心",
+        "file": "docs/algorithm/P1249.md"
+      }
+    ],
+    "模拟":[
+      {
+        "id": "P1591",
+        "title": "P1591",
+        "excerpt": "模拟",
+        "file": "docs/algorithm/P1591.md"
+      },
+      {
+        "id": "P1241",
+        "title": "P1241",
+        "excerpt": "模拟",
+        "file": "docs/algorithm/P1241.md"
+      }
     ]
   }
 }
