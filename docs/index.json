@@ -72,6 +72,30 @@
         "title": "P1241",
         "excerpt": "模拟",
         "file": "docs/algorithm/P1241.md"
+      },
+      {
+        "id": "P1601",
+        "title": "P1601",
+        "excerpt": "模拟",
+        "file": "docs/algorithm/P1601.md"
+      },
+      {
+        "id": "P2670",
+        "title": "P2670",
+        "excerpt": "模拟",
+        "file": "docs/algorithm/P2670.md"
+      },
+      {
+        "id": "P1303",
+        "title": "P1303",
+        "excerpt": "模拟，高精度乘法",
+        "file": "docs/algorithm/P1303.md"
+      },
+      {
+        "id": "P1009",
+        "title": "P1009",
+        "excerpt": "模拟，高精度乘法，高精度加法",
+        "file": "docs/algorithm/P1009.md"
       }
     ]
   }
