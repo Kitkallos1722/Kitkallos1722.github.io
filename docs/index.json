@@ -66,6 +66,12 @@
         "title": "P2842",
         "excerpt": "动态规划",
         "file": "docs/algorithm/P2842.md"
+      },
+      {
+        "id": "P1216",
+        "title": "P1216",
+        "excerpt": "动态规划",
+        "file": "docs/algorithm/P1216.md"
       }
     ],
     "模拟":[
