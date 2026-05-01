@@ -60,6 +60,14 @@
         "file": "docs/algorithm/P1249.md"
       }
     ],
+    "动态规划":[
+      {
+        "id": "P2842",
+        "title": "P2842",
+        "excerpt": "动态规划",
+        "file": "docs/algorithm/P2842.md"
+      }
+    ],
     "模拟":[
       {
         "id": "P1591",
