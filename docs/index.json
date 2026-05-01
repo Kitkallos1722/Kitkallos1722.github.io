@@ -96,6 +96,12 @@
         "title": "P1009",
         "excerpt": "模拟，高精度乘法，高精度加法",
         "file": "docs/algorithm/P1009.md"
+      },
+      {
+        "id": "P045",
+        "title": "P045",
+        "excerpt": "模拟，数学，快速幂，高精度",
+        "file": "docs/algorithm/P045.md"
       }
     ]
   }
