@@ -74,6 +74,12 @@
         "file": "docs/algorithm/P2840.md"
       },
       {
+        "id": "P2834",
+        "title": "P2834",
+        "excerpt": "动态规划",
+        "file": "docs/algorithm/P2834.md"
+      },
+      {
         "id": "P1216",
         "title": "P1216",
         "excerpt": "动态规划",
