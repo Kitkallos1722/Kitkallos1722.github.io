@@ -62,6 +62,12 @@
     ],
     "动态规划":[
       {
+        "id": "P1048",
+        "title": "P1048",
+        "excerpt": "动态规划，01背包",
+        "file": "docs/algorithm/P1048.md"
+      },
+      {
         "id": "P2842",
         "title": "P2842",
         "excerpt": "动态规划",
