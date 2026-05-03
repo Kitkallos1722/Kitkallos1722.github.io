@@ -148,6 +148,12 @@
         "title": "P1045",
         "excerpt": "模拟，数学，快速幂，高精度",
         "file": "docs/algorithm/P1045.md"
+      },
+      {
+        "id": "P4924",
+        "title": "P4924",
+        "excerpt": "模拟",
+        "file": "docs/algorithm/P4924.md"
       }
     ]
   }
