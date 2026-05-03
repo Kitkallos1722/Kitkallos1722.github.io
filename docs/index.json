@@ -70,6 +70,12 @@
         "title": "P1249",
         "excerpt": "贪心",
         "file": "docs/algorithm/P1249.md"
+      },
+      {
+        "id": "P4995",
+        "title": "P4995",
+        "excerpt": "贪心",
+        "file": "docs/algorithm/P4995.md"
       }
     ],
     "二叉树":[
