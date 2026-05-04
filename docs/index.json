@@ -34,6 +34,14 @@
         "file": "docs/algorithm/P1923.md"
       }
     ],
+    "线性表":[
+      {
+        "id": "P3613",
+        "title": "P3613",
+        "excerpt": "线性表",
+        "file": "docs/algorithm/P3613.md"
+      }
+    ],
     "搜索":[
       {
         "id": "P1219",
@@ -46,6 +54,12 @@
         "title": "P1443",
         "excerpt": "搜索",
         "file": "docs/algorithm/P1443.md"
+      },
+      {
+        "id": "P2404",
+        "title": "P2404",
+        "excerpt": "搜索",
+        "file": "docs/algorithm/P2404.md"
       }
     ],
     "递推与递归":[
