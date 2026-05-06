@@ -12,6 +12,12 @@
         "title": "P1102",
         "excerpt": "二分",
         "file": "docs/algorithm/P1102.md"
+      },
+      {
+        "id": "P1873",
+        "title": "P1873",
+        "excerpt": "二分",
+        "file": "docs/algorithm/P1873.md"
       }
     ],
     "排序":[
@@ -40,6 +46,12 @@
         "title": "P3613",
         "excerpt": "线性表",
         "file": "docs/algorithm/P3613.md"
+      },
+      {
+        "id": "P4387",
+        "title": "P4387",
+        "excerpt": "线性表",
+        "file": "docs/algorithm/P4387.md"
       }
     ],
     "搜索":[
