@@ -198,6 +198,12 @@
         "title": "P4924",
         "excerpt": "模拟",
         "file": "docs/algorithm/P4924.md"
+      },
+      {
+        "id": "P1015",
+        "title": "P1015",
+        "excerpt": "模拟，高精度加法",
+        "file": "docs/algorithm/P1015.md"
       }
     ]
   }
